@@ -1,2 +1,2 @@
 # git-assignment
-This is assignment or test  fopr saylani Ai student
+This is assignment or test  for saylani Ai student
